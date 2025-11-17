@@ -74,7 +74,7 @@ const Footer = () => {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 mr-2 flex-shrink-0 mt-0.5" />
-                <span>102 M.A.V. Colony,Rajagopal Thottam, Karungalpalayam,Erode-638003</span>
+                <span>47/1, Karattankadu 5th Street, Dharapuram Road, Tirupur - 641 608</span>
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 mr-2 flex-shrink-0" />

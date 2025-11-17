@@ -76,7 +76,7 @@ const Contact = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground mb-2">+91-8760980402</p>
-                <p className="text-muted-foreground">+91-9043591306</p>
+                {/* <p className="text-muted-foreground">+91-9043591306</p> */}
               </CardContent>
             </Card>
 
@@ -89,9 +89,11 @@ const Contact = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground">
-                  102 M.A.V. Colony<br />
+                  47/1, Karattankadu 5th Street,<br>
+                  </br>Dharapuram Road, Tirupur - 641 608<br />
+                  {/* 102 M.A.V. Colony<br />
                   Rajagopal Thottam<br />
-                  Karungalpalayam
+                  Karungalpalayam */}
                 </p>
               </CardContent>
             </Card>
